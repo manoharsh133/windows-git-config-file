@@ -1,0 +1,7 @@
+Host gitlab.ninestars.in
+    HostName gitlab.ninestars.in
+    User 12577
+    IdentityFile /c/Users/12577/.ssh/id_rsa
+    IdentitiesOnly yes
+    PubkeyAcceptedAlgorithms +ssh-rsa
+    HostkeyAlgorithms +ssh-rsa
